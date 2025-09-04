@@ -1,0 +1,157 @@
+    1  python --version
+    2  pip --version
+    3  python --version
+    4  pip --version
+    5  git --version
+    6  mkdir paises_3147252
+    7  ls
+    8  cd paises_3147252
+    9  pip install matplotlib
+   10  pip freeze
+   11  pip install virtualenv
+   12  pip freeze
+   13  python -m venv paises_env
+   14  ls
+   15  cd paises_env
+   16  ls
+   17  cd Scripts
+   18  ls
+   19  cd ..
+   20  cd..
+   21  cd ..
+   22  source paises_env/Scripts/activate
+   23  desactivate
+   24  deactivate
+   25  source paises_env/Script/activate
+   26  source paises_env/Script/activate
+   27  source paises_env/Scripts/activate
+   28  pip freeze
+   29  code .
+   30  code .
+   31  flask run
+   32  flask run
+   33  flask run
+   34  flask run
+   35  pip freeze
+   36  pip install flask
+   37  flask run
+   38  flask run
+   39  flask run
+   40  flask run
+   41  flask run
+   42  cd .
+   43  cd .
+   44  code .
+   45  code .
+   46  code .
+   47  flask run
+   48  flask run --debug
+   49  flask run
+   50  flask run --debug
+   51  flask run --debug
+   52  clear
+   53  node -v
+   54  npm --version
+   55  npm create vite@latest home_x -- --template react
+   56  npm create vite@latest home_x -- --template react
+   57  cd home_x
+   58  npm install 
+   59  mkdir home_x
+   60  cd home_x
+   61  npm init -y
+   62  npm create vite@latest home_x -- --template react
+   63  npm create vite@latest home_x -- --template react
+   64  clear
+   65  npm create vite@latest todo_list_app_react -- --template react
+   66  npm install
+   67  cd todo_list_app_react
+   68  npm install
+   69  npm i -D tailwindcss @tailwindcss/postcss @tailwindcss/cli
+   70  code .
+   71  cd usuario/documentos/modulo_1_react
+   72  cd /d/usuario/documentos/modulo_1_react
+   73  [200~cd /d/usuario/documentos/modulo_1_react
+   74  cd /d/usuario/documentos/todo_list_app_react
+   75  git clone https://github.com/JuanForero1079/todo_list_app_react.git
+   76  code .
+   77  g
+   78  clear
+   79  npm create vite@latest todo_list_app_react -- --template react
+   80  rm -rf todo_list_app_react
+   81  npm create vite@latest todo_list_app_react -- --template react
+   82  cd todo_list_app_react
+   83  npm install
+   84  npm run dev
+   85  npm run dev
+   86  code .
+   87  npm i -D tailwindcss @tailwindcss/postcss @tailwindcss/cli
+   88  npm i -D eslint prettier eslint-config-prettier eslint-plugin-react eslint-plugin-react-hooks
+   89  clear
+   90  mkdir ecoenergix_django && cd ecoenergix_django
+   91  python -m venv .venv
+   92  . .venv/Scripts/Activate.ps1
+   93  source .venv/Scripts/activate
+   94  pip install django djangorestframework drf-spectacular Pillow django-cors-headers
+   95  django-admin startproject config .
+   96  python manage.py startapp products
+   97  code .
+   98  clear
+   99  git clone https://github.com/Emmanuel22-cpu/EcoEnergixBack.git
+  100  cd EcoEnergixBack
+  101  python -m venv .venv
+  102  .venv\Scripts\activate
+  103  source .venv/Scripts/activate
+  104  pip install -r requirements.txt
+  105  code .
+  106  clear
+  107  mkdir ecoenergix_backend
+  108  cd ecoenergix_backend
+  109  python -m venv .venv
+  110  source .venv/Scripts/activate
+  111  pip install fastapi uvicorn sqlalchemy pymysql python-multipart
+  112  pip install -U pip
+  113  pip install fastapi uvicorn[standard] SQLAlchemy pymysql pydantic-settings python-multipart
+  114  pip freeze > requirements.txt
+  115  clear
+  116  cd .\Desktop\
+  117  [200~cd /c/Users/usuario/Desktop
+  118  cd /c/Users/usuario/Desktop
+  119  cd /c/Users/usuario/Escritorio
+  120  pwd
+  121  ls
+  122  cd /c/Users/usuario/ecoenergix_backend
+  123  ls
+  124  yarn create vite
+  125  npm create vite@latest
+  126  [200~npm create vite@latest
+  127  [200~npm create vite@latest
+  128  npm create vite@latest
+  129  clear
+  130  [200~cd ~/OneDrive/Escritorio
+  131  [200~cd ~/OneDrive/Escritorio
+  132  cd ~/OneDrive/Escritorio
+  133  cd /c/Users/usuario/OneDrive/Escritorio
+  134  pwd
+  135  ls /c/Users/usuario
+  136  ls /c/Users/usuario/OneDrive
+  137  mkdir ecoenergix_back
+  138  ls
+  139  cd ecoenergix_back
+  140  npm create vite@latest
+  141  clear
+  142  [200~cd ~/Escritorio/
+  143  cd ~/Escritorio/
+  144  cd ~/Desktop/
+  145  [200~/c/Users/usuario
+  146  /c/Users/usuario
+  147  ls /c/Users/usuario
+  148  cd /c/Users/usuario
+  149  cd /c/Users/usuario/Ecoenergix
+  150  mkdir Ecoenergix_Front
+  151  yarn create vite
+  152  clear
+  153  yarn
+  154  yarn add express
+  155  yarn add mysql
+  156  history
+  157  history > historial.txt
