@@ -1,0 +1,15 @@
+meta {
+  name: Actualizar producto.
+  type: http
+  seq: 4
+}
+
+put {
+  url: http://localhost:3001/api/producto/1
+  body: json
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}

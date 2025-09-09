@@ -1,0 +1,15 @@
+meta {
+  name: Actualizar un pago por ID.
+  type: http
+  seq: 4
+}
+
+put {
+  url: http://localhost:3001/api/pago/1
+  body: json
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}
